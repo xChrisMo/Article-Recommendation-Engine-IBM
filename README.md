@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project's goal is to analyze the interactions that users have had with articles on the IBM Watson Studio platform and recommend new articles they might like.
+This project's goal is to analyze the interactions that users have had with articles on the IBM Watson Studio platform and recommend new articles they might like. See picture above to get an idea what it looks like
 
 ## Program Structure
 
@@ -41,7 +41,7 @@ In this project, I explored four recommendation systems on real data for the IBM
 4. Run the cells to reproduce the analysis
 
 ## Acknowledgments
-Thanking [udacity](https://www.udacity.com/dashboard) for this amazing project, and [IBM Studios](https://www.ibm.com/uk-en) for providing the data.
+Thanking [Udacity](https://www.udacity.com/dashboard) for this amazing project, and [IBM Studios](https://www.ibm.com/uk-en) for providing the data.
 
 ## Licensing 
 Copyright (c) 2024, Ayo
